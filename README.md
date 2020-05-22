@@ -1,2 +1,0 @@
-# authentications
-Created with CodeSandbox
